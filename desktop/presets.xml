@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<presetList>
+    <presets name="CID / Burglary / Event">
+        <account>4733</account>
+        <dialNumber>0219996728</dialNumber>
+        <eventCode>130</eventCode>
+        <functionCode></functionCode>
+        <group>01</group>
+        <protocol>CID</protocol>
+        <qualifier>E</qualifier>
+        <zone>000</zone>
+    </presets>
+    <presets name="CID / Fire / Event">
+        <account>4733</account>
+        <dialNumber>0219996728</dialNumber>
+        <eventCode>110</eventCode>
+        <functionCode></functionCode>
+        <group>01</group>
+        <protocol>CID</protocol>
+        <qualifier>E</qualifier>
+        <zone>000</zone>
+    </presets>
+    <presets name="CID / Burglary / Restore">
+        <account>4733</account>
+        <dialNumber>0219996728</dialNumber>
+        <eventCode>130</eventCode>
+        <functionCode></functionCode>
+        <group>01</group>
+        <protocol>CID</protocol>
+        <qualifier>R</qualifier>
+        <zone>000</zone>
+    </presets>
+    <presets name="CID / Fire / Restore">
+        <account>4733</account>
+        <dialNumber>0219996728</dialNumber>
+        <eventCode>110</eventCode>
+        <functionCode></functionCode>
+        <group>01</group>
+        <protocol>CID</protocol>
+        <qualifier>R</qualifier>
+        <zone>000</zone>
+    </presets>
+    <presets name="CID / Panic / Event">
+        <account>4733</account>
+        <dialNumber>0219996728</dialNumber>
+        <eventCode>120</eventCode>
+        <functionCode></functionCode>
+        <group>01</group>
+        <protocol>CID</protocol>
+        <qualifier>E</qualifier>
+        <zone>000</zone>
+    </presets>
+    <presets name="CID / Panic / Restore">
+        <account>4733</account>
+        <dialNumber>0219996728</dialNumber>
+        <eventCode>120</eventCode>
+        <functionCode></functionCode>
+        <group>01</group>
+        <protocol>CID</protocol>
+        <qualifier>R</qualifier>
+        <zone>000</zone>
+    </presets>
+</presetList>
